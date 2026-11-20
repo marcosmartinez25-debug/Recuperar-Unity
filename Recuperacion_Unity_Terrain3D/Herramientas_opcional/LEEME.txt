@@ -1,0 +1,10 @@
+gen_texturas.py es el script de Python con el que genere las texturas de
+Assets/_Recuperacion/Texturas (albedo + normal map y los billboards de vegetacion).
+
+NO hace falta para nada en Unity: esta aqui solo por si quieres retocar colores o
+regenerarlas. Necesita Python con numpy y Pillow:
+
+    pip install numpy pillow
+    python gen_texturas.py
+
+Esta carpeta NO debe ir dentro de Assets ni en el zip de la entrega.

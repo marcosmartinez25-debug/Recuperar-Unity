@@ -1,0 +1,7 @@
+Esta carpeta va DENTRO de la carpeta Assets de tu proyecto de Unity.
+
+  TuProyecto/Assets/_Recuperacion/
+
+Despues, en el menu de Unity:  Recuperacion > Abrir generador de escena
+
+Las instrucciones completas estan en GUIA_PASO_A_PASO.md (fuera de esta carpeta).
